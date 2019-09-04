@@ -1,6 +1,8 @@
 # meetingIndividuals
-Client: Vuejs
-API: Nodejs, MongoDB, Express
+#### Client 
+[Vuejs](https://vuejs.org/v2/guide/)
+#### API
+[Nodejs](https://nodejs.org/en/docs/), [Mongoose](https://mongoosejs.com/docs/), [Express](https://expressjs.com)
 
 Connecting people from one person to another
 
@@ -28,6 +30,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
